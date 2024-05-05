@@ -1,4 +1,4 @@
-package com.bytebuilder.book.api;
+package com.bytebuilder.book.api.v1;
 
 
 import com.bytebuilder.book.model.map.feedback.FeedbackRequest;
